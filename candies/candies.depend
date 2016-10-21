@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470165429 source:c:\newcc\candies\main.cpp
+	<bits/stdc++.h>
+	<string>
+

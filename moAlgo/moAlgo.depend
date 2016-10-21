@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466436380 source:c:\newcc\moalgo\main.cpp
+	<bits/stdc++.h>
+	<algorithm>
+

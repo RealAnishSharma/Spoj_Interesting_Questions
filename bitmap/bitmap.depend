@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471611965 source:c:\newcc\bitmap\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<limits>
+	<queue>
+	<map>
+

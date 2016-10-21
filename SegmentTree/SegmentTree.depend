@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465294632 source:c:\newcc\segmenttree\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465455586 source:c:\newcc\segtree4\main.cpp
+	<iostream>
+	<cstdio>
+	<climits>
+

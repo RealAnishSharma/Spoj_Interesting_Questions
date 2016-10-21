@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467535348 source:c:\newcc\bitwork\main.cpp
+	<iostream>
+	<bitset>
+

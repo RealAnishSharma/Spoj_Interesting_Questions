@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470505595 source:c:\newcc\rock\main.cpp
+	<bits/stdc++.h>
+	<limits>
+

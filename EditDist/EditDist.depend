@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470389742 source:c:\newcc\editdist\main.cpp
+	<bits/stdc++.h>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470008267 source:c:\newcc\mixtures\main.cpp
+	<bits/stdc++.h>
+	<limits>
+

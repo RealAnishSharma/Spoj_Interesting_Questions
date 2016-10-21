@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470036612 source:c:\newcc\philosphersstone\main.cpp
+	<bits/stdc++.h>
+	<limits>
+

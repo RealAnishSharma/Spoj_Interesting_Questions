@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470498730 source:c:\newcc\crosscountry\main.cpp
+	<bits/stdc++.h>
+	<limits>
+

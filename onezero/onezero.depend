@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471009474 source:c:\newcc\onezero\main.cpp
+	<bits/stdc++.h>
+	<string>
+
